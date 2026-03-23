@@ -1,5 +1,5 @@
 {
   "name": "Vite+",
   "image": "mcr.microsoft.com/devcontainers/typescript-node:4-24-trixie",
-  "postCreateCommand": "curl -fsSL https://deploy-preview-1092--viteplus-preview.netlify.app/install.sh | bash"
+  "postCreateCommand": "curl -fsSL https://vite.plus | bash"
 }
